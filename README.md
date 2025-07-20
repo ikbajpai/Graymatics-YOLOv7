@@ -1,3 +1,5 @@
+Complete project deliverables: https://drive.google.com/drive/folders/1Xx7rOjVoUeYkZUUz82snN-i4cA03D9my?usp=sharing
+
 **Conclusion Summary**
 
 
@@ -22,5 +24,3 @@ mAP@0.5:0.95: 0.859
 6) All deliverables (training logs, results, inference output) have been generated and are ready for submission.
 
 7) The project meets all specified task requirements and demonstrates accurate real-world detection capability.
-
-complete project deliverables: https://drive.google.com/drive/u/0/folders/1Xx7rOjVoUeYkZUUz82snN-i4cA03D9my
