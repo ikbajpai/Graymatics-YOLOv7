@@ -23,3 +23,4 @@ mAP@0.5:0.95: 0.859
 
 7) The project meets all specified task requirements and demonstrates accurate real-world detection capability.
 
+complete project deliverables: https://drive.google.com/drive/u/0/folders/1Xx7rOjVoUeYkZUUz82snN-i4cA03D9my
