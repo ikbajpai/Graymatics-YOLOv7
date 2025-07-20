@@ -1,5 +1,6 @@
 **Conclusion Summary**
-\n
+
+
 Trained a custom YOLOv7 object detection model on the Graymatics dataset containing 2 classes.
 
 Converted the provided COCO-format annotations (.json) to YOLO format (.txt) successfully.
